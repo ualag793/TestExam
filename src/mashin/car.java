@@ -8,6 +8,7 @@ public class car {
 		//maraz simulatrasdasdasd
 		//moz
 		// manam manam madaretoon
+		// mooooz
 	}
 
 }
